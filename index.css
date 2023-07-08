@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+
+}
+body,html{
+    width: auto;
+    height: 100%;
+
+}
+.home{
+    background-image: url("index.jpg");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+li{
+    display: inline;
+}
+.page{
+
+margin-left: 10px;
+font-size: xx-large;
+color: darkblue;
+    text-decoration: none;
+
+}
+#h1{
+    margin-left: 10px;
+font-size: xx-large;
+color: deeppink;
+    text-decoration: none;
+}
